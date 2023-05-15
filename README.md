@@ -25,15 +25,19 @@ b.	Compiling, Training, and Evaluating the Model
 c.	Summary:
     •	Each of the four models presented failed to achieve the target performance of 75%. The outcomes for each of the models are listed below:
     •	Model 1 (nn)
+![image](https://github.com/kbrantner/deep_learning_challenge/assets/117327499/a897c6e3-df83-4722-850a-5a194da15429)
 
  
     •	Model 2 (nn2)
+![image](https://github.com/kbrantner/deep_learning_challenge/assets/117327499/84a2a5ae-4caf-4534-a502-b843efcd7d8d)
 
  
     •	Model 3 (nn3)
+![image](https://github.com/kbrantner/deep_learning_challenge/assets/117327499/9c24ab48-de42-434f-9ab0-2a7d8844ef5f)
 
  
     •	Model 4 (nn_jp)
+![image](https://github.com/kbrantner/deep_learning_challenge/assets/117327499/b2a966c4-ea33-496a-adeb-24132297a2ca)
 
  
     •	Another model that could be used is the Random Forest model. This model could be appropriate since the data outcomes are known, it can perform both classification and regression tasks, and is appropriate to use with large data sets. However, when I used the Random Forest model the accuracy of the model was at its lowest, so the random forest code is committed out since it does not actually help improve accuracy. At this point I recommend continuing with the deep learning model. 
